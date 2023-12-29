@@ -1,0 +1,53 @@
+{
+  "layer": "top",
+    "modules-left": ["hyprland/workspaces"],
+    "modules-center": ["clock"],
+    "modules-right": ["backlight", "pulseaudio", "network", "battery"],
+    "custom/arch": {
+      "format": "  ",
+      "tooltip": false,
+      "on-click": "sh $HOME/.config/rofi/bin/powermenu"
+    },
+    "hyprland/workspaces": {
+      "format": "{name}",
+      "format": "{icon}",
+      "tooltip": false,
+      "all-outputs": true,
+      "format-icons": {
+        "active": "",
+        "default": ""
+      }
+    },
+    "clock": {
+      "format": "<span color='#C0A36E'> </span>{:%H:%M}",
+    },
+    "backlight": {
+      "device": "intel_backlight",
+      "format": "<span color='#C0A36E'>{icon}</span> {percent}%",
+      "format-icons": ["", "", "", "", "", "", "", "", ""]
+    },
+    "pulseaudio": {
+      "format": "<span color='#C0A36E'>{icon}</span> {volume}%",
+      "format-muted": "",
+      "tooltip": false,
+      "format-icons": {
+        "headphone": "",
+        "default": ["", "", "󰕾", "󰕾", "󰕾", "", "", ""]
+      },
+      "scroll-step": 1,
+    },
+    "network": {
+        // "interface": "wlp2*", // (Optional) To force the use of this interface
+	"format": "{finame}",
+        "format-wifi": "{essid} ({signalStrength}%) ",
+        "format-ethernet": "Connected 󰈀",
+        "tooltip": false,
+        "format-disconnected": "Disconnected ⚠"
+    },
+    "battery": {
+      "format": "<span color='#C0A36E'>{icon}</span> {capacity}%",
+      "format-icons": ["", "", "", "", "", "", "", "", "", ""],
+      "format-charging": "<span color='#C0A36E'></span> {capacity}%",
+      "tooltip": false,
+    },
+}
