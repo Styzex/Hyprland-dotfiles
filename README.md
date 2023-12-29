@@ -20,8 +20,8 @@ My hyprland dotfiles are based on the kanagawa theme for vim.
 - `SUPER+F`: firefox
 
 # How to change the wallpaper
-- Got to '~/.config/hypr' and open the 'hyprpaper.conf'.
-- Change the wallpaper directory in 'hyprpaper.conf' to your wallpaper directory.
+- Got to `~/.config/hypr` and open the `hyprpaper.conf`.
+- Change the wallpaper directory in `hyprpaper.conf` to your wallpaper directory.
 
 ### Example of the hyprpaper.conf
 ```
