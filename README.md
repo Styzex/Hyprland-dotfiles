@@ -10,7 +10,7 @@ My hyprland dotfiles are based on the kanagawa theme for vim.
 - `thunar`: file manager
 - `neovim`: text editor
 - `firefox`: web browser
-- `grim, sslurp`: screenshots
+- `grim, slurp`: screenshots
 - `viewnior`: image viewer
 
 # Shortcuts
