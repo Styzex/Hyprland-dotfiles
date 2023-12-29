@@ -10,6 +10,8 @@ My hyprland dotfiles are based on the kanagawa theme for vim.
 - `thunar`: file manager
 - `neovim`: text editor
 - `firefox`: web browser
+- `grim, sslurp`: screenshots
+- `viewnior`: image viewer
 
 # Shortcuts
 - `SUPER+Q`: launches alacritty
@@ -18,6 +20,7 @@ My hyprland dotfiles are based on the kanagawa theme for vim.
 - `SUPER+E`: thunar
 - `SUPER+X`: kill active window
 - `SUPER+F`: firefox
+- `SUPER+B`: grim select area
 
 # How to change the wallpaper
 - Got to `~/.config/hypr` and open the `hyprpaper.conf`.
