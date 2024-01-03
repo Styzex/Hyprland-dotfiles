@@ -9,7 +9,7 @@ My hyprland dotfiles are based on the kanagawa theme for vim.
 - `alacritty`: terminal emulator
 - `thunar`: file manager
 - `neovim`: text editor
-- `firefox`: web browser
+- `brave`: web browser
 - `grim, slurp`: screenshots
 - `viewnior`: image viewer
 
@@ -19,7 +19,7 @@ My hyprland dotfiles are based on the kanagawa theme for vim.
 - `SUPER+SPACE`: rofi app launcher
 - `SUPER+E`: thunar
 - `SUPER+X`: kill active window
-- `SUPER+F`: firefox
+- `SUPER+F`: brave
 - `SUPER+B`: grim select area
 
 # How to change the wallpaper
