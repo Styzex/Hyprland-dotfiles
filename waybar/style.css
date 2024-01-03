@@ -37,7 +37,7 @@ window#waybar {
   padding-right: 10px;
 }
 
-#clock, #backlight, #pulseaudio, #bluetooth, #network, #battery{
+#clock, #backlight, #pulseaudio, #bluetooth, #network, #battery, #tray{
   border-radius: 0px;
   color: #C0A36E;
   /*margin-top: 15px;*/
@@ -61,5 +61,9 @@ window#waybar {
 }
 
 #clock {
+  margin-right: 0;
+}
+
+#tray {
   margin-right: 0;
 }

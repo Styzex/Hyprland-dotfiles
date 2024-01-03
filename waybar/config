@@ -2,7 +2,8 @@
   "layer": "top",
     "modules-left": ["hyprland/workspaces"],
     "modules-center": ["clock"],
-    "modules-right": ["backlight", "pulseaudio", "network", "battery"],
+    "modules-right": ["tray", "pulseaudio", "network"],
+
     "custom/arch": {
       "format": "  ",
       "tooltip": false,
@@ -49,5 +50,9 @@
       "format-icons": ["", "", "", "", "", "", "", "", "", ""],
       "format-charging": "<span color='#C0A36E'></span> {capacity}%",
       "tooltip": false,
+    },
+    "tray": {
+    "icon-size": 21,
+    "spacing": 10
     },
 }
