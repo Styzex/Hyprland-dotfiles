@@ -1,5 +1,6 @@
 # Hyprland-dotfiles
-My hyprland dotfiles are based on the kanagawa theme for vim.
+These are my hyprland dotfiles.
+The color scheme is from the kanagawa theme.
 
 # Dependencies
 - `hyprland`: window manager
@@ -21,6 +22,7 @@ My hyprland dotfiles are based on the kanagawa theme for vim.
 - `SUPER+X`: kill active window
 - `SUPER+F`: brave
 - `SUPER+B`: grim select area
+- everything else is default
 
 # How to change the wallpaper
 - Got to `~/.config/hypr` and open the `hyprpaper.conf`.
