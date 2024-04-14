@@ -1,6 +1,6 @@
 # Hyprland-dotfiles
 These are my hyprland dotfiles.
-The color scheme is from the kanagawa theme.
+Also the color scheme is from the kanagawa theme.
 
 # Dependencies
 - `hyprland`: window manager
