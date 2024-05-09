@@ -3,7 +3,7 @@ configuration {
   display-window: "Windows:";
   drun-display-format: "{name}";
   font: "JetBrainsMono Nerd Font Medium 12";
-  modi: "window,run,drun,emoji";
+  //modi: "window,run,drun,emoji";
   
   // enabling the icons
   show-icons: true;
