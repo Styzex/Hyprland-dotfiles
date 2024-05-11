@@ -10,7 +10,7 @@ Also the color scheme is from the kanagawa theme.
 - `alacritty`: terminal emulator
 - `thunar`: file manager
 - `neovim`: text editor
-- `brave`: web browser
+- `chrome`: web browser
 - `grim, slurp`: screenshots
 - `viewnior`: image viewer
 - `tmux`: teminal multiplexer
