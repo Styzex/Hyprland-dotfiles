@@ -22,7 +22,7 @@ Also the color scheme is from the kanagawa theme.
 - `SUPER+SPACE`: rofi app launcher
 - `SUPER+E`: thunar
 - `SUPER+X`: kill active window
-- `SUPER+F`: brave
+- `SUPER+F`: launches chrome
 - `SUPER+B`: grim select area
 - everything else is default
 
