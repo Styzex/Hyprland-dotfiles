@@ -13,6 +13,8 @@ Also the color scheme is from the kanagawa theme.
 - `brave`: web browser
 - `grim, slurp`: screenshots
 - `viewnior`: image viewer
+- `tmux`: teminal multiplexer
+- `zsh`: shell
 
 # Shortcuts
 - `SUPER+Q`: launches alacritty
