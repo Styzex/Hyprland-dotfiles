@@ -5,7 +5,7 @@ Also the color scheme is from the kanagawa theme.
 # Dependencies
 - `hyprland`: window manager
 - `hyprpaper`: wallpaper manager
-- `wlogout`: logout menu
+- `wlogout`: logout menu (optional)
 - `rofi-wayland`: app launcher
 - `alacritty`: terminal emulator
 - `thunar`: file manager
